@@ -34,9 +34,12 @@ dd {
 	text-align: center;
 	padding: inherit;
 	font-size: 20px;
-
 }
-	dl a {
+ol {
+	padding: inherit;
+	font-size: 20px;
+}
+	dl a, ol li a {
 		transition: all 0.3s linear;
 		text-decoration: none;
 		color: #FAD7A0;
