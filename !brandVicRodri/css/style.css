@@ -1565,7 +1565,7 @@ i:before {
 /* Categories Banner Area css
 ============================================================================================ */
 .categories_banner_area {
-  background: url(https://www.solsticesunglasses.com/medias/men-viewall-brands-banner.jpg?context=bWFzdGVyfGltYWdlc3w4NjE3NXxpbWFnZS9qcGVnfGltYWdlcy9oZjMvaDg3Lzg3OTY5MDE5MzMwODYuanBnfGNiOTFiNjM1ZjllNThlYTc1YWEyMWNkNTZhNTZiMzZiYzUwN2UyOTc0MDAzM2Q3ZmYyNjA3NTc4YzFjZWIzNGY) no-repeat scroll center center;
+  background: url(../img/banner/bannervr-larga.jpg) no-repeat scroll center center;
   background-size:cover;
   position: relative;
   z-index: 3;
@@ -1584,7 +1584,7 @@ i:before {
 
 .c_banner_inner {
   text-align: center;
-  padding: 170px 0px;
+  padding: 50px 0px;
 }
 
 .c_banner_inner h3 {
